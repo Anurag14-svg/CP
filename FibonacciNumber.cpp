@@ -8,7 +8,7 @@ public:
     }
 };
 
-// DP
+// DP using memoization
 
 int fib(int N) {
         if(N < 2)
@@ -22,7 +22,7 @@ int fib(int N) {
     }
     
     
- // Another Approach 
+ // Another Approach using third variable
  
    int fib(int N) {
         if(N < 2) 
