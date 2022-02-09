@@ -15,4 +15,4 @@ public:
     }
 };
 
-// A simple logic of negative marking 
+// A simple logic of negative marking if the elements with the range of 0 - length of araay are given then obviously negative marking will help 
